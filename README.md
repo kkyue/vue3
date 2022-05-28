@@ -1,6 +1,6 @@
 # my first vue project
 
-## Project setup
+## 我想吃饭
 ```
 npm install
 ```
